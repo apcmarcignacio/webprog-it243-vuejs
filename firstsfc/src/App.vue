@@ -6,7 +6,7 @@
 export default {
   data() {
     return {
-      message: 'This is some text. wowoowowowowow, Editing from github.dev'
+      message: 'This is some text. wowoowowowowow, Editing from github.dev. Here is another edit'
     };
   }
 };
