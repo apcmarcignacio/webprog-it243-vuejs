@@ -1,15 +1,10 @@
 <template>
-  <h1>{{ message }}</h1>
+  <h1>Food</h1>
+  <food-item/>
+  <food-item/>
+  <food-item/>
 </template>
 
-<script>
-export default {
-  data() {
-    return {
-      message: 'This is some text. wowoowowowowow, Editing from github.dev. Here is another edit'
-    };
-  }
-};
-</script>
+<script></script>
 
 <style></style>
