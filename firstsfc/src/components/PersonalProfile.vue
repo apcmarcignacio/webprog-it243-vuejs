@@ -1,34 +1,44 @@
 <template>
-    <div class="container">
-        <header> <h1>Personal Web Profile</h1> <header>
-        <main>
-            <section class="main-content">
-                <body>
-                    <h1 class="center">Personal Profile Webpage</h1>
-                <p>
+<div class="container">
+    <header> <h1>Personal Profile Web page </h1>  </header>
+    <main>
+      <section class="main-content">
 
-                About Me<br>
-                    Name: Marc Rene M. Ignacio
-  
-                Education<br>
-                    Senior Highschool Graduate
+        <div class="container">
 
-                Course<br>
-                    Bachelor of Science in Information Technology
+            <div>About Me<br>
+            Name: Marc Rene M. Ignacio
+        </div>
 
-                Hobbies/Interests<br>
-                    Baskletball, Movies, Cards
+            <div>Education<br>
+            Senior Highschool Graduate
+        </div>
 
-                Goals in Life<br>
-                    To be financially free<br>
+            <div>Course<br>
+            Bachelor of Science in Information Technology
+        </div>
 
-                Picture Gallery<br>
-                    <img src="https://www.w3schools.com/html/img_girl.jpg" alt="Girl with a jacket" width="500" height="600">
-  
-  
-                </p>
-                </body>
-    <div>
+            <div>Hobbies/Interests<br>
+            Baskletball, Movies, Cards
+        </div>
+
+            <div>Goals in Life<br>
+            To be financially free<br>
+        </div>
+
+            <div>Picture Gallery<br>
+            <img src="https://www.w3schools.com/html/img_girl.jpg" alt="Girl with a jacket" width="500" height="600">
+        </div>  
+
+        </div>
+        
+      </section>
+      <aside class="sidebar">
+        </aside>
+    </main>
+    <footer> Asia Pacific College   </footer>
+  </div>
+</template>
 
 <script></script>
 <style></style>
